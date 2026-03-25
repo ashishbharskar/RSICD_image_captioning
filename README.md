@@ -30,10 +30,7 @@ RSICD (Remote Sensing Image Caption Dataset)
 
 ## 🛠 Technologies Used
 - Python
-- PyTorch / TensorFlow (write what you used)
 - NumPy
-- NLTK
-- Matplotlib
 - Deep Learning
 
 ---
